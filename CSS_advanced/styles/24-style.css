@@ -460,7 +460,7 @@ a:active {
 
 .card-services a {
     display: block;
-    padding: 200%;
+    padding: 2rem;
     background-color: var(--color-light-grey);
 }
 
